@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For LedControl
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ATimer	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setTime     KEYWORD2
+isWithinSpan KEYWORD2
+getHour	    KEYWORD2
+getMinute   KEYWORD2
+getSecond   KEYWORD2
+getmSecond  KEYWORD2
+printTime   KEYWORD2
+pause	KEYWORD2
+start	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
